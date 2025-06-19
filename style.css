@@ -9,8 +9,13 @@ body{
 }
 
 h1{
-    font-size: 70px;
-    color: white;
+    font-size: 30px;
+    color: rgb(185, 245, 5);
+    background: url('meme.jpeg');
+    background-size: cover;
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
 }
 
 #box{
